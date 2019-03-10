@@ -40,7 +40,7 @@ When user enter incorrect credentials, login form is reloaded.
 # Issues:
 Inspite of best efforts, due to excessive errors with both mysqli and PDO methods of accessing and storing data from and to the database, I could not implement this beyond the dashboard. Upto 1 variable, the username as session variable was passed successfully from page to page. However, user_type is crucial in order to check for availability and update slot count on reservation. Even though I could retrieve user_type, because of lack of coordination through AJAX or other means between user's chosen slot input and allocating it for corresponding user_type, the slot and count_table could not be updated. As a result, project could not be implemented fully.
 Several hours of debugging were to no avail, if anything it took away more time from Styling aspect of the site, which could have been improved with attractive formatting.
-The main branch consists of hand-drawn images of what I had expected to implement on the dashboard, should the database work have been accomplished properly.
+Please refer https://github.com/thisisabhinaya/the-plot-thickens/blob/master/before_reserve.JPG and  https://github.com/thisisabhinaya/the-plot-thickens/blob/master/after_reserve.JPG for planned implementation image.
 
 
 # Future scope:<br/>
