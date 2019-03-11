@@ -11,6 +11,7 @@ They can observe the one closest to their entry point to the lot and send a requ
 -Chrome Web Browser for testing<br/>
 -HTML, CSS, Javascript<br/>
 -PHP for server-side programming<br/>
+For installation, download and paste plot folder inside htdocs folder of Xampp. Create database from PhpMyAdmin  or Command line. Run localhost to access the site. 
 
 # Primary Online references:<br/>
 -W3Schools and stackoverflow for incorporating best-practices in syntax and semantics and error resolving.
